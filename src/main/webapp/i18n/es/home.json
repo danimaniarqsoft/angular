@@ -1,0 +1,19 @@
+{
+    "home": {
+        "title": "¡Bienvenido, App!",
+        "subtitle": "Esta es su página de inicio",
+        "logged": {
+            "message": "Está conectado como \"{{username}}\"."
+        },
+        "question": "Si tiene preguntas sobre App:",
+        "link": {
+            "homepage": "Página de inicio de App",
+            "stackoverflow": "App en Stack Overflow",
+            "bugtracker": "App seguimiento de errores",
+            "chat": "Sala de chat pública de App",
+            "follow": "contacto @java_app en Twitter"
+        },
+        "like": "Si te gusta App, danos una estrella en",
+        "github": "GitHub"
+    }
+}
